@@ -10,21 +10,7 @@ body {
   margin: 0px;
   padding:0px 0 20px 0px;
 
-}
-
-.bg {
-  /* The image used */
-  background-image: url("https://thumbs.dreamstime.com/b/environment-earth-day-hands-trees-growing-seedlings-bokeh-green-background-female-hand-holding-tree-nature-field-gra-130247647.jpg");
-
-  /* Full height */
-  height: 100%;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color:#333;
-  margin:0 0 10px;
-}
-
-p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
-}
+.page-header { color: #fff; text-align: center; background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); image: "https://URLtoImage.png"; }
+@media screen and (min-width: 64em) { .page-header { padding: 5rem 6rem; } }
+@media screen and (min-width: 42em) and (max-width: 64em) { .page-header { padding: 3rem 4rem; } }
+@media screen and (max-width: 42em) { .page-header { padding: 2rem 1rem; } }
