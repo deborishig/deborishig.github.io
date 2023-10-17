@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-My name is Suttipong.
+My name is Deborishi Ganguly.
