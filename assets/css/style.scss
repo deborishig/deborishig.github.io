@@ -2,3 +2,21 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+  font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#666;
+  font-weight:300;
+  margin: 0px;
+  padding:0px 0 20px 0px;
+  background: url(https://cdn.wallpapersafari.com/70/69/rQaOIS.jpg) #eae6d1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#333;
+  margin:0 0 10px;
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
