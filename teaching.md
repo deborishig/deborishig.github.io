@@ -1,9 +1,9 @@
 ---
-title: Teaching
+title: Deborishi's Teaching
 ---
 
 My Teaching
-- one
-- two
-- three
-- four
+- Python
+- Rust
+- Quantum Machine Learning
+- Deep Reinforcement Learning
