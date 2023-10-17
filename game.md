@@ -2,6 +2,6 @@
 title: Game
 ---
 
-My games:
-1. mario
-2. Pokemon
+My favourite games are:
+1. Donkey
+2. Kong
